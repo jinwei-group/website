@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳健雄
+title: JIN Wei
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wei
+last_name: JIN
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: ADoPRI & Chair Professor of Photonic Instrumentation
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Prof.JIN's research interests include photonic crystal fiber devices, optical fiber sensors, fiber lasers and amplifiers, optical gas detectors, condition monitoring of electrical power transformer as well as civil and mechanical structures.
 
 # Interests to show in About widget
 interests:
