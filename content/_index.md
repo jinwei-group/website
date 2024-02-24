@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      view: showcase
+      view: card
       columns: '1'
   - block: experience
     content:
