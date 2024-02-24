@@ -1,9 +1,9 @@
 ---
-title: mengrui han
+title: test
 summary: 24 spring PHD student
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - PHD students
+date: 
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
