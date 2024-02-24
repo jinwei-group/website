@@ -1,9 +1,9 @@
 ---
 title: mengrui han
 summary: 24 spring PHD student
-         23125647r@connect.polyu.hk
+         
 tags:
-  - Deep Learning
+  - PHD students
 date: 
 
 # Optional external URL for project (replaces project detail page).
@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: 
     icon_pack: fab
-    name: Follow
-    # url: https://twitter.com/georgecushen
+    name: Email
+    url: 23125647r@connect.polyu.hk
 url_code: ''
 url_pdf: ''
 url_slides: ''
