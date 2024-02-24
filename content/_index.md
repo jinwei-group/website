@@ -171,10 +171,13 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Faculty
           tag: Deep Learning
-        - name: Other
+        - name: PHD students
           tag: Demo
+        - name: Postdoc
+          tag: Deep Learning
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
