@@ -49,8 +49,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-- name: Technical
-  description: The research team of Professor Wei Jin of the Hong Kong Polytechnic University (PolyU) focuses on the research frontier of micro-nano structure fiber photonics, actively explores its application in precision measurement instruments, photonic sensing and other fields, and has made outstanding research achievements in the above fields. He has recently published several papers in top professional journals such as Nature Communications and Optica. His PhD students have won many outstanding paper awards in high-level International conferences such as the International Conference on Optical Fiber Sensors (OFS).
+- name: The research team of Professor Wei Jin of the Hong Kong Polytechnic University (PolyU) focuses on the research frontier of micro-nano structure fiber photonics, actively explores its application in precision measurement instruments, photonic sensing and other fields, and has made outstanding research achievements in the above fields. He has recently published several papers in top professional journals such as Nature Communications and Optica. His PhD students have won many outstanding paper awards in high-level International conferences such as the International Conference on Optical Fiber Sensors (OFS).
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
