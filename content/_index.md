@@ -173,9 +173,9 @@ sections:
           tag: '*'
         - name: Faculty
           tag: Deep Learning
-        - name: PHD students
-          tag: Demo
         - name: Postdoc
+          tag: Demo
+        - name: PHD students
           tag: Deep Learning
 
     design:
