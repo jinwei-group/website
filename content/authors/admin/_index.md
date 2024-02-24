@@ -46,10 +46,12 @@ education:
       institution: Beijing University
       year: 
 
-# # Skills
-# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    description: 香港理工大学（理大）靳伟教授研究团队聚焦微纳结构光纤光子学的研究前沿，积极探索其在精密测量仪器、光子传感等领域的应用，并已在上述领域取得了突出的研究成果，近期在Nature Communications、Optica 等顶级专业期刊发表论文多篇，博士研究生多次在International Conference on Optical Fiber Sensors (OFS)等高层次国际会议上斩获优秀论文奖。
+
 #     items:
 #       - name: Python
 #         description: ''
@@ -120,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prof.JIN's research interests include photonic crystal fiber devices, optical fiber sensors, fiber lasers and amplifiers, optical gas detectors, condition monitoring of electrical power transformer as well as civil and mechanical structures.
 {style="text-align: justify;"}

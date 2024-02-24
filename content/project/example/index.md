@@ -15,7 +15,7 @@ image:
 
 links:
   - icon: 
-    icon_pack: fab
+    icon_pack:
     name: Email
     url: 23125647r@connect.polyu.hk
 url_code: ''
