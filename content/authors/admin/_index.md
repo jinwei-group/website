@@ -49,8 +49,8 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
-    description: 香港理工大学（理大）靳伟教授研究团队聚焦微纳结构光纤光子学的研究前沿，积极探索其在精密测量仪器、光子传感等领域的应用，并已在上述领域取得了突出的研究成果，近期在Nature Communications、Optica 等顶级专业期刊发表论文多篇，博士研究生多次在International Conference on Optical Fiber Sensors (OFS)等高层次国际会议上斩获优秀论文奖。
+- name: Technical
+  description: 香港理工大学（理大）靳伟教授研究团队聚焦微纳结构光纤光子学的研究前沿，积极探索其在精密测量仪器、光子传感等领域的应用，并已在上述领域取得了突出的研究成果，近期在Nature Communications、Optica 等顶级专业期刊发表论文多篇，博士研究生多次在International Conference on Optical Fiber Sensors (OFS)等高层次国际会议上斩获优秀论文奖。
 
 #     items:
 #       - name: Python
